@@ -19,7 +19,7 @@ public class HelloWorldApplication {
     public class HelloController{
       @GetMapping("/hello")
       public String index(){
-        return "hi,I'm forevp!!!！";
+        return "fsdf!!！";
       }
     }
 }
